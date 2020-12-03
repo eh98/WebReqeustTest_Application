@@ -41,8 +41,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:srcCompat="@drawable/image6" />
-</LinearLayout>
-
+    </LinearLayout>
     <EditText
         android:id="@+id/xeditText"
         android:layout_width="match_parent"
